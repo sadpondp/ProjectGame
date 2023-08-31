@@ -1,0 +1,28 @@
+#pum {
+    background-color: brown;
+    border: black;
+    color: black;
+}
+
+#Ans {
+    background-color: rgb(60, 255, 0);
+    border: black;
+    color: black;
+}
+
+#number1 {
+    border: black 1px solid;
+    display: block;
+    width: 300px;
+}
+
+#number2 {
+    border: black 1px solid;
+    display: block;
+    width: 300px;
+}
+
+.box {
+    border: black 2px solid;
+}
+
